@@ -1,0 +1,11 @@
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\bin\Debug\EFWorkshop.exe.config
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\bin\Debug\EFWorkshop.exe
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\bin\Debug\EFWorkshop.pdb
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\bin\Debug\EntityFramework.dll
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\bin\Debug\EntityFramework.xml
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\obj\Debug\EFWorkshop.exe
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\obj\Debug\EFWorkshop.pdb
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\obj\Debug\EFWorkshop.Migrations.AddStudent.resources
+c:\users\vanita-kolukuluri\documents\visual studio 2013\Projects\EFWorkshop\EFWorkshop\obj\Debug\EFWorkshop.csproj.GenerateResource.Cache
